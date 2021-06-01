@@ -17,5 +17,5 @@ The proposed methodology is available in this repository in a Python implementat
 Open the provided notebook and run each cell. You will need two clean datasets containing the clean data related to the daily confirmed cases per country and vaccinatio progress in the countries to be analyzed.  
 **Important**: You will need to have previously installed some basic data science and visualization packages such as seaborn, numpy, pandas, and scikit-learn.
 
-We hope this approach is informative and can provide a useful perspective on the worldwide vaccination progress,
+We hope this approach is informative and can provide a useful perspective on the worldwide vaccination progress,  
 Dachely, Carmen, and Benjamin 
