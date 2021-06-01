@@ -1,6 +1,6 @@
 # COVID-19 Vaccine Time Series Analysis
-# Authors: Benjamin Mario Sainz-Tinajero, Dachely Otero Argote, and Carmen Elisa Orozco Mora  
-# Paper title: "COVID-19 Macro Time Series Analysis of Vaccine Impact"
+**Authors:** Benjamin Mario Sainz-Tinajero, Dachely Otero Argote, and Carmen Elisa Orozco Mora  
+**Paper title:** "COVID-19 Macro Time Series Analysis of Vaccine Impact"
 
 ## Vaccine Selection
 Source code of the methodology proposed for predicting the group of countries using certain vaccine with the less steep COVID-19 contagion rate using time series analysis. Our approach starts with exploratory data analysis for finding the five vaccines with the greatest worldwide presence. The user is encouraged to decide from two metrics the vaccine manufacturers to be analyzed: number of countries that have applied the vaccine at least for one day, and vaccines with most quantity of days being applied at least once. We selected Pfizer/BioNTech, Oxford/Astra-Zeneca, Moderna, Johnson&Johnson and Sinovac, but this decision may vary depending on the time of application of the study. The next phase in our methodology is to find all of the countries using each vaccine and summing their daily confirmed COVID-19 cases. The last 21 days are kept as holdout data for testing the models. The notebook offers visualizations of the decomposition of the time series of the cases per vaccine.
